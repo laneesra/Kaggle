@@ -1,2 +1,6 @@
 /Bengali/data/
 /Titanic/data/
+.idea/
+.ipynb_checkpoints/
+Bengali/src/cv2.so
+
